@@ -25,9 +25,12 @@ The goal is to uncover patterns such as which genres users prefer, how much they
 
 ---
 
-## 📂 Project Structure├── netflix_data.csv          # Sample dataset
+## 📂 Project Structure
+'''
+├── netflix_data.csv          # Sample dataset
 ├── netflix_analysis.py       # Python analysis script
 └── README.md                 # Documentation
+'''
 
 ## 🔍 Key Analysis Performed  
 
