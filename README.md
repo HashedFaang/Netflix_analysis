@@ -48,8 +48,10 @@ The goal is to uncover patterns such as which genres users prefer, how much they
 ### ✔ Engagement Score  
 A simple metric to measure how long users stayed interested:engagement = watch_time / duration
 ### ✔ Genre-Based Similar Titles  
+```
 Grouped movies based on genre using Pandas: Action → [Movie_5, Movie_11, Movie_20]
-Comedy → [Movie_3, Movie_7, Movie_13
+Comedy → [Movie_3, Movie_7, Movie_13]
+```
 ---
 
 ## 📊 Sample Insights  
